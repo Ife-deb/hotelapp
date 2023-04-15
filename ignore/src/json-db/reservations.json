@@ -1,0 +1,19 @@
+{
+    "reservations": [
+        {
+            "customer_id": "1",
+            "first_name": "Lebron",
+            "last_name": "James",
+            "sin": 44242412412,
+            "address": "55 Dallas Road, 800",
+            "chain_name": "Marriot International",
+            "hotel_name": "Marriot London",
+            "room_id": "A1",
+            "adults": 1,
+            "children": 1,
+            "rooms": 1,
+            "time_period": "Sat Apr 08 - Sat Apr 15",
+            "price": 225
+        }
+    ]
+}

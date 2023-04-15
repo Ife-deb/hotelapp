@@ -1,0 +1,43 @@
+.recordsContainer {
+    height: 42.5rem;
+    max-height: 42.5rem;
+    width: 100%;
+    display: flex;
+    justify-content: top;
+    align-items: center;
+    flex-direction: column;
+    padding: 5rem 0 14rem 0;
+    overflow-y: scroll;
+    color: #4A6163;
+}
+
+.recordHeader {
+    margin: 2rem 0;
+}
+
+.recordItem { 
+    margin: 0 0 3rem 0;;
+    display: block;
+    width: 30%;
+    border: 1px solid #4A6163;
+    padding: 1rem 5rem;
+}
+
+.recordDescItem {
+    display: flex;
+    justify-content: space-between
+}
+
+.recordDeleteButton {
+    margin: 1rem 0;
+    background-color: #F17A7E;
+    color: white;
+    cursor: pointer;
+}
+
+.recordAddButton {
+    margin: 1rem 0;
+    background-color: rgb(77, 166, 77);
+    color: white;
+    cursor: pointer;
+}

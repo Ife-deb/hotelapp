@@ -1,0 +1,45 @@
+.reserveContainer {
+  min-width: 100%;
+  min-height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem;
+  overflow: hidden;
+}
+
+.reserveBox {
+  width: 650px;
+  height: 575px;
+  border: 5px solid #FFC94B;
+  display: flex;
+  justify-content: top;
+  align-items: left;
+  flex-direction: column;
+  margin: 150px 0;
+  padding: 1rem;
+  color:#F9A66C;
+}
+
+.reserveBox input {
+    padding: 0.5rem;
+    width: 50%;
+    margin: 0.75rem 0.25rem;
+}
+
+.reserve-ln {
+    width: 100%;
+    margin: 1rem 0;
+}
+.reserve-ln input {
+    margin: 0 1rem;
+}
+
+.reserveBtn {
+    width: 120px;
+    height: 45px;
+    padding: .5rem;
+    background-color: #F9A66C;
+    color: white;
+    cursor: pointer;
+  }

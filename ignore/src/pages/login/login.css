@@ -1,0 +1,28 @@
+.loginContainer {
+  min-width: 100%;
+  min-height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem;
+}
+
+.loginBox {
+  width: 600px;
+  height: 500px;
+  border: 5px solid #FFC94B;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin: 150px 0;
+}
+
+.loginBtn {
+  width: 150px;
+  height: 90px;
+  background-color: #F9A66C;
+  margin: 1rem;
+  color: white;
+  cursor: pointer;
+}

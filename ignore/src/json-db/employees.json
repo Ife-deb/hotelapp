@@ -1,0 +1,28 @@
+{
+"employees": [
+    {
+      "id": "1",
+      "role": "manager",
+      "first_name": "Lebron",
+      "last_name": "James",
+      "sin": 232143124124,
+      "address": "55 New York Street, Suite 330"
+    },
+    {
+      "id": "2",
+      "role": "regular",
+      "first_name": "Dwayne",
+      "last_name": "Wade",
+      "sin": 62353626325,
+      "address": "82 New Place Gateway, Suite 424"
+    },
+    {
+      "id": "3",
+      "role": "regular",
+      "first_name": "Chris",
+      "last_name": "Bosh",
+      "sin": 623636232,
+      "address": "550 Laurier, Suite 40"
+    }
+  ]
+}

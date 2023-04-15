@@ -1,0 +1,12 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "first_name": "Luka",
+      "last_name": "Doncic",
+      "sin": 424525432,
+      "address": "55 Dallas Road, 800",
+      "registration_date": "2015-22-12"
+    }
+  ]
+}
